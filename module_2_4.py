@@ -18,8 +18,8 @@ for i in numbers:
     else:
         not_primes.append(i)
 
-    print(primes)
-    print(not_primes)
+print(primes)
+print(not_primes)
 
 
 
